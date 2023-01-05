@@ -1,0 +1,27 @@
+
+# Please enter the commit message for your changes. Lines starting
+# with '#' will be ignored, and an empty message aborts the commit.
+#
+# On branch main
+# Changes to be committed:
+#	modified:   package-lock.json
+#	modified:   package.json
+#	modified:   public/index.html
+#	modified:   src/App.js
+#	modified:   src/Sheard/Navbar/Navbar.js
+#	modified:   src/pages/Home/Home/Home.js
+#	modified:   tailwind.config.js
+#
+# Untracked files:
+#	doctor-portal/
+#	src/Context/
+#	src/Layout/
+#	src/Routes/
+#	src/Sheard/Navbar/Footer/
+#	src/assets/images/404.jpg
+#	src/pages/Appointment/
+#	src/pages/Dashboard/
+#	src/pages/Home/Banner/
+#	src/pages/Login/
+#	src/pages/PageNotFounde/
+#
